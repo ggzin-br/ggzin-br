@@ -9,6 +9,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Aprenda a provisionar o recurso RDS na nuvem da AWS](https://medium.com/@ggzin-br/aprenda-a-provisionar-o-recurso-rds-na-nuvem-da-aws-9c2ab3601193?source=rss-ea5a018135d8------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
